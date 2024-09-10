@@ -30,5 +30,5 @@ To run this game locally, follow these steps:
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/flappy-bird.git
+   git clone https://github.com/rjrddy/flappy-bird.git
    cd flappy-bird
