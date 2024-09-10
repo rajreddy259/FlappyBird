@@ -8,10 +8,7 @@ The Classic Flappy Bird Game.
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [How to Play](#how-to-play)
-- [Controls](#controls)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
